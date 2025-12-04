@@ -477,7 +477,7 @@ st.markdown("""
 
 st.markdown("<h3 style='text-align: center;'>Colegio de Bachilleres del Estado de Oaxaca<br>COBAO Plantel 42 Huitzo</h3>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center;'>UAQ: Fenômenos fisicos<br>Arq. Arturo Mendosa Martinez<br>DACO 507</h5>", unsafe_allow_html=True)
-st.markdown("<p>Baltasar Díaz melissa <br> Garcia Santiago Citlali Maribel <br> Mendoza Cruz Naomi Mariana <br> Ramírez Cruz José Manuel <br>Vera Morales Iveth Sarahi</p>", unsafe_allow_html=True)
+st.markdown("<p>Baltazar Díaz melissa <br> Garcia Santiago Citlali Maribel <br> Mendoza Cruz Naomi Mariana <br> Ramírez Cruz José Manuel <br>Vera Morales Iveth Sarahi</p>", unsafe_allow_html=True)
 
 
 st.markdown(
@@ -493,4 +493,5 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
 
